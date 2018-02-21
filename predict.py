@@ -8,7 +8,7 @@ Created on Fri Feb 16 03:31:06 2018
 import numpy as np
 import scipy.io
 import os.path
-# asdfasdf
+# something here
 num_init = 50
 DH = 20
 
